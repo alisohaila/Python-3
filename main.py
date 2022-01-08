@@ -1,6 +1,6 @@
 import random
 
-print("Hello, welcome to my rock, Paper, Scissors game!")
+print("Hello, welcome to my Rock, Paper, Scissors game!")
 
 while True:
   user_action = input("Enter a choice (rock, paper, scissors): ")
