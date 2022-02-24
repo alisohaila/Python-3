@@ -30,3 +30,6 @@ while True:
     if play_again.lower() != "yes":
         print("alright, have a good day!")
         break
+
+
+No way home
